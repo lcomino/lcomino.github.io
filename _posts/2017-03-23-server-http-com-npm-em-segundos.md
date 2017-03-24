@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Server HTTP com NPM em segundos :)'
 ---
 
