@@ -4,11 +4,20 @@ published: true
 title: 'Server HTTP com NPM em segundos :)'
 subtitle: Utilize npm http-server para rodar um server http em segundos
 date: '2017-03-23'
+tags:
+  - nodejs
+  - javascript
+  - js
+  - http-server
+  - npm
+  - httpserver
+  - http
+  - node.js
 ---
 
 Neste post vou mostrar uma dica marota que me mostraram hoje (Vlw Robson), de como rodar aquele 'serverzinho' http para seu projeto, de maneira simples e fácil utilizando [Node.js®](https://nodejs.org).
 
-Primeiro deve ser instalado o `http-server` utilizando o comando `npm install http-server -g`.
+Primeiro deve ser instalado o `http-server` utilizando o comando `npm install http-server -g`. 
 
 Lembrando que você precisa ter o [Node.js®](https://nodejs.org) instalado já ;)
 
@@ -24,5 +33,6 @@ Pronto, seu server http já estará rodando na porta 8080 e poderá ser acessado
 	Hit CTRL-C to stop the server
 ```
 
+Caso queira saber mais detalhes sobre como funciona este pacote, link para o pacote [aqui](https://www.npmjs.com/package/http-server)
 
 Bom é isto, espero ter ajudado alguem ai, se ajudei, compartilhe o post ai com a galera e flws!
