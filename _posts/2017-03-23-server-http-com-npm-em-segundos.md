@@ -2,6 +2,8 @@
 layout: post
 published: true
 title: 'Server HTTP com NPM em segundos :)'
+subtitle: Utilize npm http-server para rodar um server http em segundos
+date: '2017-03-23'
 ---
 
 Neste post vou mostrar uma dica marota que me mostraram hoje (Vlw Robson), de como rodar aquele 'serverzinho' http para seu projeto, de maneira simples e fácil utilizando [Node.js®](https://nodejs.org).
@@ -24,7 +26,3 @@ Pronto, seu server http já estará rodando na porta 8080 e poderá ser acessado
 
 
 Bom é isto, espero ter ajudado alguem ai, se ajudei, compartilhe o post ai com a galera e flws!
-
-
-
-
