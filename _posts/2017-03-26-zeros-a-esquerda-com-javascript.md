@@ -24,6 +24,8 @@ Number.prototype.pad = function(size) {
 }
 ```
 
+[![]({{site.baseurl}}/teste)](teste)
+
 Olhando para ele, parece perfeito, mas acho que falta somente um item para ficar ainda melhor, um parâmetro com o caractere que ele vai preencher esta string!
 
 ```
