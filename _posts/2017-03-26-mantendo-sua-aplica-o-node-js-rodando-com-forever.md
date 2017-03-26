@@ -20,5 +20,5 @@ Lógico que esta é uma maneira simples e rápida de colocar seu app node.js no 
 
 Valeu, falou e thau!
 
-![]({{site.baseurl}}/https://media.giphy.com/media/Fs09dnTdaW6D6/giphy.gif)
+![](https://media.giphy.com/media/Fs09dnTdaW6D6/giphy.gif)
 
