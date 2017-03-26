@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Adicionando usuário no MySQL
 date: '2015-10-22'
 ---
