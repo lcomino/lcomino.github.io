@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Zeros a esquerda com Javascript
 subtitle: 'Pad left com javascript :)'
 date: '2016-06-16'
@@ -56,4 +56,3 @@ Pra não perder o costume.. um *gifzinho* para animar ;)
 Me segue ai no [Twitter](http://twitter.com/lcomino) e também no [GitHub](http://github.com/lcomino).
 
 Até mais!
-
