@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Mantendo sua aplicação node.js rodando com Forever
 date: '2015-09-03'
 ---
@@ -21,4 +21,3 @@ Lógico que esta é uma maneira simples e rápida de colocar seu app node.js no 
 Valeu, falou e thau!
 
 ![](https://media.giphy.com/media/Fs09dnTdaW6D6/giphy.gif)
-
