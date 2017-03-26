@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Monitorando as alterações do seu app Nodejs
 date: '2015-09-02'
 ---
