@@ -2,8 +2,8 @@
 layout: post
 published: true
 title: 'Server HTTP com NPM em segundos :)'
-subtitle: Utilize npm http-server para rodar um server http em segundos
-date: '2017-03-23'
+subtitle: Http Server com node.js de maneira simples
+date: '2015-09-02'
 tags:
   - nodejs
   - javascript
@@ -14,25 +14,30 @@ tags:
   - http
   - node.js
 ---
+E ae!! Você que quer criar um servidor http com node, para rodar aquele seu teste com Angular.js, Jquery, CSS, etc e não quer configurar o http na mão, é somente para um teste simples, você pode utilizar o modulo do node.js o http-server!
 
-Neste post vou mostrar uma dica marota que me mostraram hoje (Vlw Robson), de como rodar aquele 'serverzinho' http para seu projeto, de maneira simples e fácil utilizando [Node.js®](https://nodejs.org).
+No seu terminal instale o módulo de maneira GLOBAL 
 
-Primeiro deve ser instalado o `http-server` utilizando o comando `npm install http-server -g`. 
+`$ npm install -g http-server`
 
-Lembrando que você precisa ter o [Node.js®](https://nodejs.org) instalado já ;)
+Se necessário utilize o sudo.
 
-Feito isto, navegue até a pasta do seu projeto e digite o seguinte comando no terminal `http-server -c-1`. Este comando inicia o serviço na porta 8080 e o comando -c-1 desabilita o cache da parada.
+Pronto, depois de instalado é simples, acesse a a pasta do projeto que deseja testar e faça o seguinte:
 
-Pronto, seu server http já estará rodando na porta 8080 e poderá ser acessado em [http://localhost:8080](http://localhost:8080).
+`$ http-server`
 
-```
-	Starting up http-server, serving ./
-	Available on:
-  		http://10.1.1.13:8080
-  		http://127.0.0.1:8080
-	Hit CTRL-C to stop the server
-```
+Pronto! Acesse 127.0.0.1:8080 no seu navegador e seu projeto com angular, html, css, jquery.. estará lá!! Lindo!
 
-Caso queira saber mais detalhes sobre como funciona este pacote, link para o pacote [aqui](https://www.npmjs.com/package/http-server)
+Mas assim, pra ficar mais simples ainda eles adicionaram uma outra maneira de chamar o server.. puts esta é de matar..
 
-Bom é isto, espero ter ajudado alguem ai, se ajudei, compartilhe o post ai com a galera e flws!
+`$ hs`
+
+Somente isto fará o mesmo de http-server, nossa mais simples que isto não sei o que seria.
+
+Valeu, espero que tenha ajudado alguém ai, qualquer dúvida, sugestão, dica, critica.. me avise nas redes sociais.
+
+[twitter.com/lcomino](twitter.com/lcomino)  
+[github.com/lcomino](github.com/lcomino)  
+[facebook.com/lcomino](facebook.com/lcomino)  
+
+![developer-gif-funny posted by http://dash.tumblr.com/post/79225660880/how-the-world-perceives-programmers](http://31.media.tumblr.com/1aedae6094bcbf1df4c173662ed00e94/tumblr_n2932hpslW1tq2pnlo1_400.gif)
