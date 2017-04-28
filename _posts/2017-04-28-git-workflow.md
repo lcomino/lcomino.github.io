@@ -161,3 +161,4 @@ Spike branches podem ser chamadas de: `spike_[branch_name]`
 - [Understanding the Git Workflow](https://sandofsky.com/blog/git-workflow.html)
 - [Github: Understanding the Git Flow](http://guides.github.com/overviews/flow/)
 - [Issues with Git Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+- [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow/)
