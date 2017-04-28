@@ -1,7 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: Git Workflow
+date: '2017-04-28'
 ---
 
 Este texto não é meu, traduzi, para estudo do link abaixo.  
@@ -161,5 +162,3 @@ Spike branches podem ser chamadas de: `spike_[branch_name]`
 - [Understanding the Git Workflow](https://sandofsky.com/blog/git-workflow.html)
 - [Github: Understanding the Git Flow](http://guides.github.com/overviews/flow/)
 - [Issues with Git Flow](http://scottchacon.com/2011/08/31/github-flow.html)
-
-
