@@ -5,13 +5,12 @@ title: Git Workflow
 date: '2017-04-28'
 ---
 
-Este texto não é meu, traduzi, para estudo do link abaixo.  
+Este texto não é meu, foi traduzido para estudo do link abaixo.  
 Fonte: https://github.com/thejameskyle/git-workflow/blob/master/README.md
 
 Espero que ajude. ;)  
 
-
-
+---  
 
 Este é um documento que venho trabalhando a algum tempo, já usei ele em vários equipes. Embora atenda a metodologia ágil, não é completamente amarrada a ela.
 
