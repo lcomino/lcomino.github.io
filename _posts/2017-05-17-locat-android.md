@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Utilizando o ADB do Android SDK para visualizar o log do seu device Android.
 date: '2017-05-17'
 ---
