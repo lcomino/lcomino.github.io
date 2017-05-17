@@ -36,9 +36,10 @@ Ainda no terminal, execute o comando `adb shell logcat`
 
 No terminal agora irá aparecer todo o log do seu aparelho conectado, algo como abaixo:
 
-![]({{site.baseurl}}/img/2017-05-17_13-07-25.gif)
+![]({{site.baseurl}}/img/2017-05-17_13-07-25.gif)![2017-05-17_13-07-25.gif]({{site.baseurl}}/img/2017-05-17_13-07-25.gif)
 
-Mas, isto não ajuda muito certo?Não, então vamos gravar ele em um txt para ver se melhora a situação?
+
+Mas, isto não ajuda muito certo? Não, então vamos gravar ele em um txt para ver se melhora a situação?
 
 Execute o comando novamente, mas agora jogando o retorno em um arquivo TXT.
 
